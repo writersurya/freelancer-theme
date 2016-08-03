@@ -4,7 +4,7 @@ email: writer.suryarao@gmail.com
 description: "ఓ మంచి కథ.com is a website/blog from the writer Surya Rayarao."
 twitter_username: jekyllrb
 github_username:  writersurya
-baseurl: ""
+baseurl: /project-site
 
 # Build settings
 markdown: kramdown
